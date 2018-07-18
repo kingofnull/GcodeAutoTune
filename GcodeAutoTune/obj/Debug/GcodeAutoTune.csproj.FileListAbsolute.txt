@@ -1,0 +1,13 @@
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\bin\Debug\GcodeAutoTune.exe.config
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\bin\Debug\GcodeAutoTune.exe
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\bin\Debug\GcodeAutoTune.pdb
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.csprojResolveAssemblyReference.cache
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.frmMain.resources
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.Properties.Resources.resources
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.csproj.GenerateResource.Cache
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.exe
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.pdb
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\bin\Debug\GcodeAutoTune.exe.manifest
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\bin\Debug\GcodeAutoTune.application
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.exe.manifest
+E:\VS Projects\Projects\GcodeAutoTune\GcodeAutoTune\obj\Debug\GcodeAutoTune.application
